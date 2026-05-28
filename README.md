@@ -35,5 +35,4 @@ Place your `kaggle.json` at `~/.kaggle/kaggle.json` (get it from Kaggle → Acco
 | Epochs per fold | 5 |
 | Batch size | 8 |
 
-## Authors
-Sanhita Kulshrestha · Pragya Raj · Samiksha Dubey
+
